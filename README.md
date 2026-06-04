@@ -1,16 +1,88 @@
-# React + Vite
+# 🛒 ShopVerse - React E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive e-commerce website built using React. This project showcases a clean UI, product listings, shopping cart functionality, and a user-friendly shopping experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Modern and responsive design
+* Product showcase section
+* Interactive navigation bar
+* Shopping cart interface
+* Fast performance with React
+* Mobile-friendly layout
+* Easy to customize and extend
 
-## React Compiler
+## 🛠️ Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Vite
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── ProductCard.jsx
+│   └── Footer.jsx
+├── App.jsx
+├── App.css
+└── main.jsx
+```
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/shopverse.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd shopverse
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 📸 Preview
+
+<img width="1411" height="942" alt="image" src="https://github.com/user-attachments/assets/67313eab-e8ef-44ef-bbd3-1ecbb9b5d948" />
+
+
+## 🎯 Future Improvements
+
+* User Authentication
+* Product Search
+* Product Filtering
+* Wishlist Feature
+* Payment Gateway Integration
+* Dark Mode
+* Admin Dashboard
+
+## 🤝 Contributing
+
+Contributions are welcome. Feel free to fork the repository and submit a pull request.
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+
+Made with ❤️ by Shreyas Govalkar
