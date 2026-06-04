@@ -1,4 +1,4 @@
-# 🛒 ShopVerse - React E-Commerce Website
+# 🛒 Gamers Shop - React E-Commerce Website
 
 A modern and responsive e-commerce website built using React. This project showcases a clean UI, product listings, shopping cart functionality, and a user-friendly shopping experience.
 
@@ -45,7 +45,8 @@ git clone https://github.com/your-username/shopverse.git
 Navigate to the project folder:
 
 ```bash
-cd shopverse
+cd Assignment 1
+
 ```
 
 Install dependencies:
@@ -79,10 +80,7 @@ npm run dev
 
 Contributions are welcome. Feel free to fork the repository and submit a pull request.
 
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by Shreyas Govalkar
+Made by Shreyas Govalkar
