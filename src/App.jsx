@@ -10,7 +10,7 @@ function App() {
       id: 1,
       name: "Gaming Laptop",
       price: "$999",
-      image: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+      image: "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-desk-gtZxq2Rpa_Y"
     },
     {
       id: 2,
