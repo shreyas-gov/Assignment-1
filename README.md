@@ -1,18 +1,18 @@
 # 🛒 Gamers Shop - React E-Commerce Website
 
-A modern and responsive e-commerce website built using React. This project showcases a clean UI, product listings, shopping cart functionality, and a user-friendly shopping experience.
+A modern, responsive, and user-friendly e-commerce website built with React. This project demonstrates a clean UI, reusable React components, product showcase sections, and a seamless shopping experience for users.
 
 ## 🚀 Features
 
 * Modern and responsive design
-* Product showcase section
 * Interactive navigation bar
+* Product showcase section
 * Shopping cart interface
-* Fast performance with React
+* Fast performance with React and Vite
 * Mobile-friendly layout
-* Easy to customize and extend
+* Easy to customize and scale
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
 * React.js
 * JavaScript (ES6+)
@@ -34,53 +34,70 @@ src/
 └── main.jsx
 ```
 
-## ⚙️ Installation
+## ⚙️ Installation & Setup
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/shopverse.git
-```
-
-Navigate to the project folder:
+### 1. Clone the Repository
 
 ```bash
-cd Assignment 1
-
+git clone https://github.com/your-username/gamers-shop.git
 ```
 
-Install dependencies:
+### 2. Navigate to the Project Directory
+
+```bash
+cd gamers-shop
+```
+
+### 3. Install Dependencies
 
 ```bash
 npm install
 ```
 
-Start the development server:
+### 4. Start the Development Server
 
 ```bash
 npm run dev
 ```
 
+The application will be available at:
+
+```bash
+http://localhost:5173
+```
+
 ## 📸 Preview
 
-<img width="1411" height="942" alt="image" src="https://github.com/user-attachments/assets/67313eab-e8ef-44ef-bbd3-1ecbb9b5d948" />
+![Uploading Screenshot 2026-06-04 180706.png…]()
 
 
-## 🎯 Future Improvements
+## 🎯 Future Enhancements
 
 * User Authentication
-* Product Search
-* Product Filtering
+* Product Search Functionality
+* Product Filtering & Sorting
 * Wishlist Feature
 * Payment Gateway Integration
-* Dark Mode
+* Dark Mode Support
 * Admin Dashboard
+* Order Tracking System
 
 ## 🤝 Contributing
 
-Contributions are welcome. Feel free to fork the repository and submit a pull request.
+Contributions are welcome!
 
+1. Fork the repository
+2. Create a new feature branch
+3. Commit your changes
+4. Push the branch
+5. Open a Pull Request
+
+## 📜 License
+
+This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Made by Shreyas Govalkar
+**Shreyas Govalkar**
+
+Made with ❤️ using React and Vite.
