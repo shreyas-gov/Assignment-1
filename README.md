@@ -68,7 +68,7 @@ http://localhost:5173
 
 ## 📸 Preview
 
-![Uploading Screenshot 2026-06-04 180706.png…]()
+<img width="1421" height="948" alt="Screenshot 2026-06-06 215750" src="https://github.com/user-attachments/assets/ac7efd39-0509-4466-bfae-d13de0a071d4" />
 
 
 ## 🎯 Future Enhancements
